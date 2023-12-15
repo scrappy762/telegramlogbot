@@ -6,10 +6,10 @@ import zipfile
 import glob
 # pip3 install pyTelegramBotAPI
 
-# bot name https://t.me/GRD_logbot
+# bot name https://t.me/telegram_logbot
 # bot name https://t.me/mediaserver_testing_bot
 token="enter token here" # original
-# https://api.telegram.org/bot1479760482:AAFSkEW3Yfom_RDHcTP2PX2ieKLcKY1qDlA/getUpdates
+# https://api.telegram.org/
 
 bot = telebot.TeleBot(token)
 
